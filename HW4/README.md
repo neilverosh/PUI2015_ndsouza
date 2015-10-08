@@ -1,0 +1,1 @@
+This folder contains Assignment2 of HW4 which deals with comparing various samples of a binomial distribution to a normal distribution using different goodness of fit tests. The process is then repeated for samples of a poisson distribution.
