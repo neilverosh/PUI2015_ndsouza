@@ -1,0 +1,60 @@
+the reviews were ok, but could surely have been more detailed and critical, especially if you have an interest in viz! 9/10
+
+NOTES ON YOUR PLOT
+===================
+
+colors are nicely vivid and color blind compliant
+
+axis labels too small
+
+the plot is largely empty (remember tufte's rules!) a shorter more compact y axis would help comparison
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+
+yanchao1992
+============
+
+
+
+the choice of using points instead of a histogram here really compromises readability: the structure in the data cannot be seen.
+
+maybe in log scale it would have been possibly to see structure in the data by decompressing the density in the low values, but as it is the plot is non informative.
+
+ticks too small
+
+consider plotting in smaller units, perhaps minutes, or even hours, so that the y axis does not have such large numbers.
+
+
+
+Casyfill
+============
+
+this is a great plot. the kind of plot that makes tufte happy. 
+the author should make the python implementation public in a nice python module!
+the color choices are not terribly good for color blind compliance.
+
+what is the number at the top left of each row? not describes in the readme.
+
+
+
+myphan92
+============
+
+
+the choice of plotting data instead of a histogram is esthetically appealing but largely compromises readability and causes ambiguity
+
+the datapoints hide a pattern in the data: the age increases more significantly for women, peaking around 1980, but it is hard to tell.
+
+the green foreground datapoints hide the background blue datapoints -> confusion and ambiguity. 
+
+color are compliant with most color blind prescriptions
+
+the datapoints without transparency or edges blend at the bottom. it is not a crucial problem since this plot is not meant to be read point by point however.
+
+
+tick labels too small
+
+title to verbose: that level of description belongs to the caption. title should be succinct
